@@ -4,12 +4,12 @@ Criamos com a utilização do flutter um aplicativo para cadastro de filmes, com
 
 ## Ações
 
-No aplicativo conseguimos:
-    * cadastrar filme
-      * adicionar foto
-      * adicionar sinopse/opinião
-      * adicionar uma nota com base em estrelas
-      * adicionar foto com link do google
-    * ver os filmes cadastrados em lista
-    * remover filme cadastrado
-    * editar filme cadastrado
+* **Cadastrar filme**
+  * Adicionar foto local
+  * Adicionar foto via link do Google
+  * Adicionar sinopse e opinião pessoal
+  * Atribuir nota (avaliação por estrelas)
+* **Gerenciar Listagem**
+  * Visualizar todos os filmes cadastrados em lista
+  * Editar informações de um filme existente
+  * Remover filmes da base de dados
